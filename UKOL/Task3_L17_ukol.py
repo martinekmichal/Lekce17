@@ -33,6 +33,6 @@ def main():
     kopirovaci_vlakno.start()
 
     kopirovaci_vlakno.join()
-    print("Kopírování je kompletní.")
+    print("Kopírování je HOTOVO.")
 
 main()
